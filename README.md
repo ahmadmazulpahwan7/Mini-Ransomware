@@ -13,7 +13,7 @@ $ cd Mini-Ransomware
 $ sh Ransomware.sh
 
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Whatsapp : https://wa.me/628994422616
 
